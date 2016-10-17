@@ -36,6 +36,7 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Runtime.Caching" />
     <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -93,9 +94,15 @@
       <DependentUpon>Resources.zh-cn.resx</DependentUpon>
     </Compile>
     <Compile Include="Resources\ResourcesLanguage.cs" />
+    <Compile Include="Security\Base64Provider.cs" />
+    <Compile Include="Security\MD5Provider.cs" />
+    <Compile Include="Serialization\BinaryStringSerializer.cs" />
+    <Compile Include="Serialization\BinarySerializerFactory.cs" />
     <Compile Include="Serialization\IByteSerializer.cs" />
     <Compile Include="Serialization\SerializerFactory.cs" />
     <Compile Include="Serialization\JsonSerializerFactory.cs" />
+    <Compile Include="Serialization\SoapStringSerializer.cs" />
+    <Compile Include="Serialization\SoapSerializerFactory.cs" />
     <Compile Include="Serialization\XMLSerializerFactory.cs" />
     <Compile Include="Serialization\IStringSerializer.cs" />
     <Compile Include="Serialization\XmlStringSerializer.cs" />
@@ -116,9 +123,7 @@
     <Compile Include="Validation\Validators\RequiredValidator.cs" />
     <Compile Include="Validation\Validators\StringLengthValidator.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Security\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Resources.en-us.resx">
       <Generator>ResXFileCodeGenerator</Generator>
