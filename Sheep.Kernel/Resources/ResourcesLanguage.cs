@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sheep.Kernel.Resources
 {
-    internal enum Language
+    internal enum ResourcesLanguage
     {
         us = 1,
         cn = 2
