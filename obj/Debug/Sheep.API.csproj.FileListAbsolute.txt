@@ -1,0 +1,17 @@
+G:\Sheep\Sheep.QCloud\Sheep.API\bin\Debug\Sheep.API.dll
+G:\Sheep\Sheep.QCloud\Sheep.API\bin\Debug\Sheep.API.pdb
+G:\Sheep\Sheep.QCloud\Sheep.API\obj\Debug\Sheep.API.dll
+G:\Sheep\Sheep.QCloud\Sheep.API\obj\Debug\Sheep.API.pdb
+G:\Sheep\Sheep.QCloud\Sheep.API\obj\Debug\Sheep.API.csprojResolveAssemblyReference.cache
+G:\Sheep\Sheep.AliPay\Sheep.API\bin\Debug\Sheep.API.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\bin\Debug\Sheep.API.pdb
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.pdb
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.csproj.GenerateResource.Cache
+G:\Sheep\Sheep.AliPay\Sheep.API\bin\Debug\en-us\Sheep.API.resources.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\en-us\Sheep.API.resources.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.Resources.en-us.resources
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.Resources.zh-cn.resources
+G:\Sheep\Sheep.AliPay\Sheep.API\bin\Debug\zh-cn\Sheep.API.resources.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\zh-cn\Sheep.API.resources.dll
+G:\Sheep\Sheep.AliPay\Sheep.API\obj\Debug\Sheep.API.csprojResolveAssemblyReference.cache
