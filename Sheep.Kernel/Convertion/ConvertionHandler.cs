@@ -29,6 +29,5 @@ namespace Sheep.Kernel.Convertion
             for (int i = 0; i < bts.Length; i += 2) result += "\\u" + bts[i + 1].ToString("x").PadLeft(2, '0') + bts[i].ToString("x").PadLeft(2, '0');
             return result;
         }
-
     }
 }
