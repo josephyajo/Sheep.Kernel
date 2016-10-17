@@ -9,3 +9,15 @@ G:\Sheep\Sheep.AliPay\Sheep.Kernel\obj\Release\en-us\Sheep.Kernel.resources.dll
 G:\Sheep\Sheep.AliPay\Sheep.Kernel\obj\Release\zh-cn\Sheep.Kernel.resources.dll
 G:\Sheep\Sheep.AliPay\Sheep.Kernel\obj\Release\Sheep.Kernel.dll
 G:\Sheep\Sheep.AliPay\Sheep.Kernel\obj\Release\Sheep.Kernel.pdb
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Release\Sheep.Kernel.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Release\Sheep.Kernel.pdb
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Release\en-us\Sheep.Kernel.resources.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Release\zh-cn\Sheep.Kernel.resources.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.csprojResolveAssemblyReference.cache
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.Resources.en-us.resources
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.Resources.zh-cn.resources
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.csproj.GenerateResource.Cache
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\en-us\Sheep.Kernel.resources.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\zh-cn\Sheep.Kernel.resources.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.dll
+G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.pdb
