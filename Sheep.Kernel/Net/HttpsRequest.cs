@@ -22,7 +22,7 @@ namespace Sheep.Kernel.Net
         {
             using (SslStream ssl = new SslStream(new NetworkStream(clientSocket), false, new RemoteCertificateValidationCallback(ValidateServerCertificate), null))
             {
-                ssl.AuthenticateAsClient("Name", metadata.Certificates, SslProtocols.Tls, false);
+                ssl.AuthenticateAsClient("Sheep", metadata.Certificates, SslProtocols.Tls, false);
                 if (ssl.IsAuthenticated)
                 {
                     byte[] buff = metadata.CompositeRequestHeader(method);
