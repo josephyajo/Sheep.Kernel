@@ -108,13 +108,19 @@ namespace Sheep.Kernel.Net
                     byte[] reads = new byte[len];
                     Array.Copy(buff, 0, reads, 0, len);
                     array.Add(reads);
-                    bulider.Append(metadata.Response_Charset.GetString(reads));
+
+                    if (len != 1024)
+                        break;
                 }
-                string temp = bulider.ToString();
-                if (temp.ToUpper().Contains("</HTML>"))
+                else
                 {
                     break;
                 }
+                //string temp = bulider.ToString();
+                //if (temp.ToUpper().Contains("</HTML>"))
+                //{
+                //    break;
+                //}
             }
             byte[] bytes = new byte[length];
             int index = 0;

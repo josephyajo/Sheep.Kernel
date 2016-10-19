@@ -4,9 +4,9 @@ using System.Text.RegularExpressions;
 
 namespace Sheep.Kernel.Convertion
 {
-    internal class ConvertionHandler
+    public class ConvertionHandler
     {
-        internal static string ToGB2312(string str)
+        public static string ToGB2312(string str)
         {
             string result = str;
             MatchCollection mc = Regex.Matches(str, @"\\u([\w]{2})([\w]{2})", RegexOptions.Compiled | RegexOptions.IgnoreCase);
@@ -22,7 +22,7 @@ namespace Sheep.Kernel.Convertion
             return result;
         }
 
-        internal static string ToUnicode(string str)
+        public static string ToUnicode(string str)
         {
             byte[] bts = Encoding.Unicode.GetBytes(str);
             string result = "";

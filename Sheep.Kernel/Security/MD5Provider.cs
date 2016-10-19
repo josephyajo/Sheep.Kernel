@@ -18,7 +18,12 @@ namespace Sheep.Kernel.Security
         {
             MD5 md5 = MD5.Create();
             byte[] result = md5.ComputeHash(encoding.GetBytes(source));
-            return encoding.GetString(result);
+            var sb = new StringBuilder();
+            foreach (byte b in result)
+            {
+                sb.Append(b.ToString("x2"));
+            }
+            return sb.ToString();
         }
     }
 }

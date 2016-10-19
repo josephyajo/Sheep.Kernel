@@ -37,7 +37,6 @@ G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Debug\Sheep.Kernel.dll
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Debug\Sheep.Kernel.pdb
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Debug\en-us\Sheep.Kernel.resources.dll
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\bin\Debug\zh-cn\Sheep.Kernel.resources.dll
-G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Debug\Sheep.Kernel.csprojResolveAssemblyReference.cache
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Debug\Sheep.Kernel.Resources.en-us.resources
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Debug\Sheep.Kernel.Resources.zh-cn.resources
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Debug\Sheep.Kernel.csproj.GenerateResource.Cache

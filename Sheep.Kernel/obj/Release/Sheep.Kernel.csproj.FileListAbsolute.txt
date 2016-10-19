@@ -20,4 +20,3 @@ G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\en-us\Sheep.Kernel.resources.dll
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\zh-cn\Sheep.Kernel.resources.dll
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.dll
 G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.pdb
-G:\Sheep\Sheep.Kernel\Sheep.Kernel\obj\Release\Sheep.Kernel.csprojResolveAssemblyReference.cache
